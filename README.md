@@ -2,4 +2,4 @@ This website consists of index.html and other recipe folder which contains the h
 
 
 It was  built with just html because this is a html project from the odin project.
-i will be using different html tags like <image>, <a> and more
+i will be using different html tags like image tag, anchor tag and more
